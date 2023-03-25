@@ -37,8 +37,6 @@ En el futuro se incluiran mas conversores y mejoras de interface.
 ## Demo
 
 ![Demo](https://res.cloudinary.com/dgamerone/image/upload/v1679775546/WhatsApp-Video-2023-03-25-at-17.11.45_gcven5.gif)
-
-![Logo](https://res.cloudinary.com/dgamerone/image/upload/v1679769314/Logo_Conversor_Alura_rnyhjl.png)
 https://res.cloudinary.com/dgamerone/image/upload/v1679775546/WhatsApp-Video-2023-03-25-at-17.11.45_gcven5.gif
 
 
